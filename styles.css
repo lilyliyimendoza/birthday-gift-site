@@ -63,23 +63,28 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("images/elmohappy.gif");
+    background-position: center;
 }
 
-#gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+#gift-img-faint:hover {
+    background-image: url("images/elmofaint.gif");
+    background-position: center;
 }
 
-#gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+#gift-img-perfect:hover {
+    background-image: url("images/perfect.gif");
+    background-position: center;
 }
 
-#gift-img-badass:hover {
-    background-image: url("images/badass.gif");
+#gift-img-silly:hover {
+    background-image: url("images/elmosilly.gif");
+    background-position: center;
 }
 
-#gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+#gift-img-cake:hover {
+    background-image: url("images/birthdaycake.gif");
+    background-position: center;
 }
 
 #footer {
